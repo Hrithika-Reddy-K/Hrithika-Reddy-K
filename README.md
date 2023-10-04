@@ -8,12 +8,23 @@ I am a recent graduate with Masters in Information Systems trying to build a Han
 
 - [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
 
+<h2>💡Skills</h2>
 
+- SQL, Python, C
+- Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook
+- Linux, Windows
+- Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing
 
+<h2>🌱 Learning</h2>
 
+- Working on AWS Cloud Practitioner Certification
+- Building a few more Projects for my Portfolio
+
+<h2>🏅Others</h2>
+
+- Certified Level-1 Yoga Trainer
 <!---- 👋 Hi, I’m @Hrithika-Reddy-K 
  - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
