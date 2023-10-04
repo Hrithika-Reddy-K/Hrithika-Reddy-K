@@ -1,4 +1,4 @@
-<h1 style=color:red;font-size:40px;">Hello, I'm Hrithika! </h1><br/><a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>  
+<h1 font-size:40px;">Hello, I'm Hrithika! </h1><br/><a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>  
   
 <b>Welcome to my Profile. Thanks for stopping by!<b/>
 
