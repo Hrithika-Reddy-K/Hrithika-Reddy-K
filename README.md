@@ -1,5 +1,5 @@
 <h1 font-size:40px;"> Hello, I'm Hrithika! </h1> 
-<h1 font-size:20px;"> <a href="https://github.com/Hrithika-Reddy-K"> Enthusiastic Learner</a>,
+<h1 font-size:10px;"> <a href="https://github.com/Hrithika-Reddy-K"> Enthusiastic Learner</a>,
 <a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>  </h1>
 <br/> 
 <b>Welcome to my Profile. Thanks for stopping by!<b/>
