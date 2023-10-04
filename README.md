@@ -6,7 +6,7 @@
 
 I am a recent graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
 
-<!--<h2>👨‍💻 Data Analytics Projects:</h2> --->
+<!---<h2>👨‍💻 Data Analytics Projects:</h2> --->
 
 
 
