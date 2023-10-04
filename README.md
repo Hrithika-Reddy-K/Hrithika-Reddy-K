@@ -4,13 +4,14 @@
 
 I am a recent graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
 
-<!---<h2>👨‍💻 Data Analytics Projects:</h2> --->
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
 
 
 
 
-
-<!--- - 👋 Hi, I’m @Hrithika-Reddy-K 
+<!---- 👋 Hi, I’m @Hrithika-Reddy-K 
  - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
