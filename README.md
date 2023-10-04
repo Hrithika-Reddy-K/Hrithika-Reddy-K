@@ -1,7 +1,7 @@
 <h1 font-size:40px;"> Hello, I'm Hrithika! </h1> 
 <a href="https://github.com/Hrithika-Reddy-K"> Enthusiastic Learner </a>,
 <a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>  
-</br>
+<br/>
 <b>Welcome to my Profile. Thanks for stopping by!<b/>
 
 I am a recent graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
