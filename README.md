@@ -1,10 +1,10 @@
-<h1>Hello, I'm Hrithika! <br/><a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>
+<h1>Hello, I'm Hrithika! <br/><a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>  
   
-<b>Welcome to my Profile. Thanks for stopping by!</b>
+<b><font size="-2">Welcome to my Profile. Thanks for stopping by!</font> <b/>
+
+I am a recent graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
 
 <!--<h2>👨‍💻 Data Analytics Projects:</h2> --->
-
-
 
 
 
