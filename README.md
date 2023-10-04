@@ -1,6 +1,6 @@
 <h1>Hello, I'm Hrithika! <br/><a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a>
   
-<b>Welcome to my Profile. Thanks for stopping by!</b>
+<div>Welcome to my Profile. Thanks for stopping by!</div>
 
 <!--<h2>👨‍💻 Data Analytics Projects:</h2> --->
 
