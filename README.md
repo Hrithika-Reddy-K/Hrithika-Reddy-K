@@ -10,19 +10,20 @@ I am a recent graduate with Masters in Information Systems trying to build a Han
 
 <h2>💡Skills</h2>
 
-- SQL, Python, C
-- Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook
-- Linux, Windows
-- Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing
+- SQL, Python, C.
+- Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook.
+- Linux, Windows.
+- Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing.
 
 <h2>🌱 Learning</h2>
 
-- Working on AWS Cloud Practitioner Certification
-- Building a few more Projects for my Portfolio
+- Working on AWS Cloud Practitioner Certification.
+- Building a few more Projects for my Portfolio.
 
 <h2>🏅Others</h2>
 
-- Certified Level-1 Yoga Trainer
+- Certified Level-1 Yoga Trainer.
+- Experience in troubleshooting and repairing hardware/software issues on smart phones.
 <!---- 👋 Hi, I’m @Hrithika-Reddy-K 
  - 👀 I’m interested in ... 
 - 💞️ I’m looking to collaborate on ...
