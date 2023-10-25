@@ -7,6 +7,7 @@ I am a recent graduate with Masters in Information Systems trying to build a Han
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
+- [Excel Projects](https://github.com/Hrithika-Reddy-K/Excel-Projects)
 
 <h2>💡Skills</h2>
 
