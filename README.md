@@ -17,7 +17,7 @@ I am a graduate with Masters in Information Systems trying to build a Hands-On E
 - Linux, Windows.
 - Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing.
 
-<h2>Certification</h2>  
+<h2>👩‍🎓Certification</h2>  
 
 - [IBM Data Analyst Capstone Project](https://coursera.org/verify/9ARKCXF2C7KN) 
 
