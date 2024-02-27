@@ -2,19 +2,24 @@
 <a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a></h1>
 <b>Welcome to my Profile. Thanks for stopping by!<b/>
 
-I am a recent graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
+I am a graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
 - [Excel Projects](https://github.com/Hrithika-Reddy-K/Excel-Projects)
-- [IBM Capstone Project](https://github.com/Hrithika-Reddy-K/IBM_Capstone_Project) 
+- [IBM Capstone Project](https://github.com/Hrithika-Reddy-K/IBM_Capstone_Project)
+  
 <h2>💡Skills</h2>
 
 - SQL, Python, C.
 - Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook.
 - Linux, Windows.
 - Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing.
+
+<h2>Certification</h2>  
+
+- [IBM Data Analyst Capstone Project](https://coursera.org/verify/9ARKCXF2C7KN) 
 
 <h2>🌱 Learning</h2>
 
