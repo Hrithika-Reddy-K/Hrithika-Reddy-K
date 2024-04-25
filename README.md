@@ -19,8 +19,9 @@ I am a graduate with Masters in Information Systems trying to build a Hands-On E
 
 <h2>👩‍🎓Certification</h2>  
 
-- [IBM Data Analyst Capstone Project](https://coursera.org/verify/9ARKCXF2C7KN) 
-
+- [IBM Data Analyst Capstone Project](https://coursera.org/verify/9ARKCXF2C7KN)
+- [SQL for Data Analysis - with SQL Server](https://www.udemy.com/certificate/UC-18ff617e-5bc1-43f3-a35f-83f0042dd5bd/)
+  
 <h2>🌱 Learning</h2>
 
 - Working on AWS Cloud Practitioner Certification.
