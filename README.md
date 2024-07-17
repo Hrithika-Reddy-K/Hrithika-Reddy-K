@@ -12,7 +12,7 @@ I am a graduate with Masters in Information Systems trying to build a Hands-On E
   
 <h2>💡Skills</h2>
 
-- SQL, Python, C.
+- SQL, Python, R Programming.
 - Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook.
 - Linux, Windows.
 - Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing.
