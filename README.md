@@ -6,6 +6,7 @@ I am a graduate with Masters in Information Systems trying to build a Hands-On E
 
 <h2>👨‍💻Projects</h2>
 
+- [Depression](https://github.com/Hrithika-Reddy-K/Depression)
 - [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
 - [Excel Projects](https://github.com/Hrithika-Reddy-K/Excel-Projects)
 - [IBM Capstone Project](https://github.com/Hrithika-Reddy-K/IBM_Capstone_Project)
