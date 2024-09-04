@@ -1,10 +1,10 @@
 <h1 font-size:40px;"> Hello, I'm Hrithika! <br/> <a href="https://github.com/Hrithika-Reddy-K">Enthusiastic Learner</a>,
-<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Analyst Professional</a></h1>
+<a href="https://www.linkedin.com/in/hrithika-reddy-kondakalla">Data Professional</a></h1>
 <b>Welcome to my Profile. Thanks for stopping by!<b/>
 
 I am a graduate with Masters in Information Systems trying to build a Hands-On Experience with a few projects. Please explore my portfolio projects.
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻Projects</h2>
 
 - [Covid-19 Data Analysis](https://github.com/Hrithika-Reddy-K/Covid-19_DataAnalysis)
 - [Excel Projects](https://github.com/Hrithika-Reddy-K/Excel-Projects)
@@ -13,8 +13,8 @@ I am a graduate with Masters in Information Systems trying to build a Hands-On E
 <h2>💡Skills</h2>
 
 - SQL, Python, R Programming.
-- Tableau, Power BI, Google Analytics, Jupyter Notebook, Excel, Word, Outlook.
-- Linux, Windows.
+- Tableau, Power BI, Google Analytics, Excel, Word, Outlook.
+- Jupyter Notebook, Visual Studio Code.
 - Data Visualizations, Data Modeling, ETL, SDLC, Agile Methodologies, Data Warehousing.
 
 <h2>👩‍🎓Certification</h2>  
